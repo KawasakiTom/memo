@@ -1,7 +1,9 @@
 # Windows UI Automation Helper (UIAHelper) 完全ガイド
 
-Windows デスクトップアプリケーションの操作を PowerShell から直感的に自動化するためのヘルパーモジュール **UIAHelper.psm1** の解説ドキュメントです。本ドキュメントは、GitHub Pages（`README.md`）や Qiita などの技術情報共有プラットフォームでの公開に適した Markdown 形式で整理されています。
-
+Windows デスクトップアプリケーションの操作を PowerShell から直感的に自動化するためのヘルパーモジュール **UIAHelper.psm1** の解説ドキュメントです。
+<!--
+本ドキュメントは、GitHub Pages（`README.md`）や Qiita などの技術情報共有プラットフォームでの公開に適した Markdown 形式で整理されています。
+-->
 ---
 
 ## 1. モジュール概要
